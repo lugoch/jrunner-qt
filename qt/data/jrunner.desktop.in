@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=JRunner
+Comment=Java/Kotlin service launcher
+Exec=jrunner
+Icon=jrunner
+Terminal=false
+Categories=Development;Utility;
+StartupNotify=true
